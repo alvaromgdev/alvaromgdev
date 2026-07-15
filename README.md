@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Álvaro García</h1>
+<h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">Software Developer in Training from Málaga, Spain 🇪🇸</h3>
 
 <p align="center">
