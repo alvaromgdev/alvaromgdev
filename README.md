@@ -1,98 +1,90 @@
-# Hi, I'm Álvaro 👋
+<h1 align="center">Hi 👋, I'm Álvaro García</h1>
+<h3 align="center">Software Developer in Training from Málaga, Spain 🇪🇸</h3>
 
-I'm a **Software Developer in Training** based in Málaga, Spain 🇪🇸.
+<p align="center">
+Passionate about Software Engineering, Web Development and continuous learning.
+</p>
 
-I'm passionate about software development, software engineering and modern web technologies. I enjoy building applications, solving problems through code and continuously improving my technical skills.
-
-My goal is to become a versatile software developer by gaining experience with modern programming languages, frameworks and development tools while building high-quality software projects.
+<p align="center">
+  <a href="mailto:ciencias8000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://TU-PORTFOLIO.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 💻 Software Developer in Training
 - 📍 Málaga, Spain
-- 🌱 Passionate about software engineering and continuous learning
-- 🤝 Open to learning, collaborating and building meaningful software
+- 🌱 Passionate about software engineering and modern web technologies
+- 🚀 Focused on building high-quality software projects
+- 📚 Always learning new tools, frameworks and best practices
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-- PHP
-- Java
-- JavaScript
-- Python
-- SQL
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frontend
 
-- HTML5
-- CSS3
-- Bootstrap
+HTML5 • CSS3 • Bootstrap
 
 ### Backend
 
-- PHP
-- Java
+PHP • Java
 
 ### Databases
 
-- MySQL
+MySQL
 
 ### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
+Git • GitHub • VS Code
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently expanding my knowledge in:
-
 - Laravel
 - React
-- Next.js
 - TypeScript
 - Docker
 - Software Architecture
 - REST APIs
-- Design Patterns
-
----
-
-## 🎯 Current Goals
-
-- Build complete full-stack applications
-- Learn modern frameworks and technologies
-- Improve my software engineering skills
-- Develop high-quality personal and open-source projects
-- Grow as a professional software developer
 
 ---
 
 ## 📌 Featured Projects
 
-This GitHub profile showcases projects related to:
+Here you'll find projects about:
 
-- 🌐 Web Development
-- ⚙️ Backend Development
-- 🏗️ MVC Architecture
-- 🔗 REST APIs
-- 🗄️ Database Design
-- 💡 Software Engineering
-
-New projects will be added as I continue learning and exploring new technologies.
+- Web Development
+- Backend Development
+- MVC Architecture
+- REST APIs
+- Database Design
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-> GitHub statistics and contribution graph are available below on my profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaromgdev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromgdev&layout=compact)
 
 ---
 
@@ -100,6 +92,4 @@ New projects will be added as I continue learning and exploring new technologies
 
 📧 **Email:** ciencias8000@gmail.com
 
----
-
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
